@@ -10,3 +10,7 @@ C:\Users\salimvay\Epicodus\TriangleTracker.Solution\TriangleTracker\bin\Debug\ne
 C:\Users\salimvay\Epicodus\TriangleTracker.Solution\TriangleTracker\obj\Debug\net5.0\TriangleTracker.dll
 C:\Users\salimvay\Epicodus\TriangleTracker.Solution\TriangleTracker\obj\Debug\net5.0\ref\TriangleTracker.dll
 C:\Users\salimvay\Epicodus\TriangleTracker.Solution\TriangleTracker\obj\Debug\net5.0\TriangleTracker.pdb
+C:\Users\salimvay\Epicodus\TriangleTracker.Solution\TriangleTracker\bin\Debug\net5.0\TriangleTracker.exe
+C:\Users\salimvay\Epicodus\TriangleTracker.Solution\TriangleTracker\bin\Debug\net5.0\TriangleTracker.runtimeconfig.json
+C:\Users\salimvay\Epicodus\TriangleTracker.Solution\TriangleTracker\bin\Debug\net5.0\TriangleTracker.runtimeconfig.dev.json
+C:\Users\salimvay\Epicodus\TriangleTracker.Solution\TriangleTracker\obj\Debug\net5.0\TriangleTracker.genruntimeconfig.cache

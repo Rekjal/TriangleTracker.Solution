@@ -1,7 +1,7 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using Triangle;
+using TriangleTracker.Models;
 
-namespace Triangle.Tests
+namespace TriangleTracker.Tests
 {
     [TestClass]
     public class TriangleTests
@@ -33,6 +33,7 @@ namespace Triangle.Tests
         }
 
         [TestMethod]
+
 
         public void TriangleChecker_CheckScalene_True()
         {
