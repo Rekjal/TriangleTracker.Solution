@@ -1,0 +1,12 @@
+C:\Users\salimvay\Epicodus\TriangleTracker.Solution\TriangleTracker\obj\Debug\net5.0\TriangleTracker.csprojAssemblyReference.cache
+C:\Users\salimvay\Epicodus\TriangleTracker.Solution\TriangleTracker\obj\Debug\net5.0\TriangleTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salimvay\Epicodus\TriangleTracker.Solution\TriangleTracker\obj\Debug\net5.0\TriangleTracker.AssemblyInfoInputs.cache
+C:\Users\salimvay\Epicodus\TriangleTracker.Solution\TriangleTracker\obj\Debug\net5.0\TriangleTracker.AssemblyInfo.cs
+C:\Users\salimvay\Epicodus\TriangleTracker.Solution\TriangleTracker\obj\Debug\net5.0\TriangleTracker.csproj.CoreCompileInputs.cache
+C:\Users\salimvay\Epicodus\TriangleTracker.Solution\TriangleTracker\bin\Debug\net5.0\TriangleTracker.deps.json
+C:\Users\salimvay\Epicodus\TriangleTracker.Solution\TriangleTracker\bin\Debug\net5.0\TriangleTracker.dll
+C:\Users\salimvay\Epicodus\TriangleTracker.Solution\TriangleTracker\bin\Debug\net5.0\ref\TriangleTracker.dll
+C:\Users\salimvay\Epicodus\TriangleTracker.Solution\TriangleTracker\bin\Debug\net5.0\TriangleTracker.pdb
+C:\Users\salimvay\Epicodus\TriangleTracker.Solution\TriangleTracker\obj\Debug\net5.0\TriangleTracker.dll
+C:\Users\salimvay\Epicodus\TriangleTracker.Solution\TriangleTracker\obj\Debug\net5.0\ref\TriangleTracker.dll
+C:\Users\salimvay\Epicodus\TriangleTracker.Solution\TriangleTracker\obj\Debug\net5.0\TriangleTracker.pdb

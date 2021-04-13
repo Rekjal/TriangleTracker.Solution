@@ -10,8 +10,17 @@ namespace Triangle.Tests
         public void TriangleChecker_CheckValidTriangle_NotATriangle()
         {
             Triangle testTriangle = new Triangle();
-            string testResult = "A Triangle";
+            string testResult = "Not A Triangle";
             Assert.AreEqual(testResult, testTriangle.TriangleChecker(4,3,8));
+        }
+
+        [TestMethod]
+
+        public void TriangleChecker_CheckEquilateral_True()
+        {
+            Triangle testTriangle = new Triangle();
+            string testResult = "Your triangle is an equilateral triangle";
+            Assert.AreEqual(testResult, testTriangle.TriangleChecker(4,4,4));
         }
 
         // [TestMethod]

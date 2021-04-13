@@ -2,6 +2,31 @@ namespace Triangle
 {
     public class Triangle
     {
-       
+        public string TriangleChecker(int side1, int side2, int side3)
+        {
+            int firstPairing = side1 + side2;
+            int secondPairing = side2 + side3;
+            int thirdPairing = side1 + side3;
+            if ((firstPairing <= side3) || (secondPairing <= side1) || (thirdPairing <= side2))
+            {
+                //    return notatrinalge;
+                return "Not A Triangle";
+            }
+            else
+            {
+                if ((side1 == side2) && (side2 == side3) && (side1 == side3))
+                {
+                    return "Your triangle is an equilateral triangle";
+                }
+
+                //    if is this a equilatertal
+                //   elseif  is this a scalene?
+                //    else is this a Isosecles
+                else
+                {
+                    return "to be continued";
+                }
+            }
+        }
     }
 }
