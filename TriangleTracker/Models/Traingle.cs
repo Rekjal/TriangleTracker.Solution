@@ -2,7 +2,7 @@ namespace TriangleTracker.Models
 {
     public class Triangle
     {
-        public string TriangleChecker(int side1, int side2, int side3)
+        public static string TriangleChecker(int side1, int side2, int side3)
         {
             int firstPairing = side1 + side2;
             int secondPairing = side2 + side3;

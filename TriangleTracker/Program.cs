@@ -20,8 +20,8 @@ namespace TriangleTracker
             int side3 = int.Parse(stringSide3);
 
             //   int x = 3
-            Triangle objectName = new Triangle();
-            string output = objectName.TriangleChecker(side1, side2, side3);
+            // Triangle objectName = new Triangle();
+            string output = Triangle.TriangleChecker(side1, side2, side3);
             Console.WriteLine(output);
             //   when you have an object and the parent class of object contains anything (Field or a method)
             //it can be accessed using "dot" operator. COndition is the field/method has to be "public"
