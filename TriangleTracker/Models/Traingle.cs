@@ -18,13 +18,13 @@ namespace Triangle
                 {
                     return "Your triangle is an equilateral triangle";
                 }
-
-                //    if is this a equilatertal
-                //   elseif  is this a scalene?
-                //    else is this a Isosecles
+                else if ((side1 == side2) || (side2 == side3) || (side1 == side3))
+                {
+                    return "Your triangle is an isosceles triangle";
+                }
                 else
                 {
-                    return "to be continued";
+                    return "Your triangle is a scalene triangle";
                 }
             }
         }

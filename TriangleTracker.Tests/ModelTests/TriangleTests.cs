@@ -7,7 +7,7 @@ namespace Triangle.Tests
     public class TriangleTests
     {
         [TestMethod]
-        public void TriangleChecker_CheckValidTriangle_NotATriangle()
+        public void TriangleChecker_CheckValidTriangle_True()
         {
             Triangle testTriangle = new Triangle();
             string testResult = "Not A Triangle";
@@ -23,26 +23,22 @@ namespace Triangle.Tests
             Assert.AreEqual(testResult, testTriangle.TriangleChecker(4,4,4));
         }
 
-        // [TestMethod]
-        // public void IsLeapYear_NumberNotDivisibleByFour_False()
-        // {
-        //     LeapYear testLeapYear = new LeapYear();
-        //     Assert.AreEqual(false, testLeapYear.IsLeapYear(1999));
-        // }
+        [TestMethod]
 
-        // [TestMethod]
-        // public void IsLeapYear_MultiplesOfOneHundred_False()
-        // {
-        //     LeapYear testLeapYear = new LeapYear();
-        //     Assert.AreEqual(false, testLeapYear.IsLeapYear(1900));
-        // }
+        public void TriangleChecker_CheckIsosceles_True()
+        {
+            Triangle testTriangle = new Triangle();
+            string testResult = "Your triangle is an isosceles triangle";
+            Assert.AreEqual(testResult, testTriangle.TriangleChecker(4,4,7));
+        }
 
-        // [TestMethod]
-        // public void IsLeapYear_MultiplesOfFourHundred_True()
-        // {
-        //     LeapYear testLeapYear = new LeapYear();
-        //     Assert.AreEqual(true, testLeapYear.IsLeapYear(2000));
-        // }
+        [TestMethod]
 
+        public void TriangleChecker_CheckScalene_True()
+        {
+            Triangle testTriangle = new Triangle();
+            string testResult = "Your triangle is a scalene triangle";
+            Assert.AreEqual(testResult, testTriangle.TriangleChecker(4,5,7));
+        }
     }
 }
