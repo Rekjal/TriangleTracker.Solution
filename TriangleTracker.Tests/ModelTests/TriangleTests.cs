@@ -6,12 +6,13 @@ namespace Triangle.Tests
     [TestClass]
     public class TriangleTests
     {
-        // [TestMethod]
-        // public void IsLeapYear_NumberDivisibleByFour_True()
-        // {
-        //     LeapYear testLeapYear = new LeapYear();
-        //     Assert.AreEqual(true, testLeapYear.IsLeapYear(2012));
-        // }
+        [TestMethod]
+        public void TriangleChecker_CheckValidTriangle_NotATriangle()
+        {
+            Triangle testTriangle = new Triangle();
+            string testResult = "A Triangle";
+            Assert.AreEqual(testResult, testTriangle.TriangleChecker(4,3,8));
+        }
 
         // [TestMethod]
         // public void IsLeapYear_NumberNotDivisibleByFour_False()
