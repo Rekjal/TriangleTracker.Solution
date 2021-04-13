@@ -1,0 +1,8 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>           <!-- tells compiler we are building an executable file -->
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+</Project>
