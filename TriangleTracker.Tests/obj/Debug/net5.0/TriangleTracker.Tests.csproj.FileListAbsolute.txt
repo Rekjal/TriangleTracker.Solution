@@ -94,3 +94,4 @@ C:\Users\salimvay\Epicodus\TriangleTracker.Solution\TriangleTracker.Tests\obj\De
 C:\Users\salimvay\Epicodus\TriangleTracker.Solution\TriangleTracker.Tests\obj\Debug\net5.0\ref\TriangleTracker.Tests.dll
 C:\Users\salimvay\Epicodus\TriangleTracker.Solution\TriangleTracker.Tests\obj\Debug\net5.0\TriangleTracker.Tests.pdb
 C:\Users\salimvay\Epicodus\TriangleTracker.Solution\TriangleTracker.Tests\obj\Debug\net5.0\TriangleTracker.Tests.genruntimeconfig.cache
+C:\Users\salimvay\Epicodus\TriangleTracker.Solution\TriangleTracker.Tests\bin\Debug\net5.0\TriangleTracker.exe
